@@ -3,5 +3,38 @@ main {
   padding-top: 100px;
   padding-left: $sidebar-width;
 
-  background-color: green;
+  // background-color: green;
 }
+
+// span {
+//   display: block;
+//   border: 10px solid transparent;
+//   border-top: 10px solid #c3d;
+//   // border-bottom: 10px solid #c3d;
+//   // border-left: 10px solid #000;
+//   // border-right: 10px solid #03d;
+//   width: 20px;
+//   height: 20px;
+// }
+
+// .span {
+//   display: block;
+//   border: 10px solid #3c3;
+//   border-top: 10px solid transparent;
+//   border-top-left-radius: 10px;
+//   border-top-right-radius: 10px;
+//   border-radius: 10px;
+//   transform: rotate(90deg);
+//   position: relative;
+//   &:after {
+//     content: "";
+//     display: block;
+//     position: absolute;
+//     background-color: red;
+//     width: 2px;
+//     height: 2px;
+//     border-radius: 50%;
+//     top: -3px;
+//     left: calc(-6px - 1px);
+//   }
+// }
